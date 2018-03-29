@@ -1,12 +1,12 @@
 {
-  "name": "Myntra-online shopping",
-  "short_name": "Myntra",
-  "theme_color": "#0926c5",
-  "background_color": "#e2dddd",
+  "name": "music player",
+  "short_name": "music",
+  "theme_color": "#1f496a",
+  "background_color": "#1d659f",
   "display": "standalone",
   "orientation": "portrait",
-  "Scope": "/",
-  "start_url": "/",
+  "Scope": ".",
+  "start_url": ".",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
